@@ -1,6 +1,5 @@
 
--  I’m interested in creating websites, video games, and creating programs!
--  I’m currently learning web desigm (HTML, JAVA SCRIPT, SQL), programming (JAVA, C#) and other tools such as GIT.
+-  How's it going ?
 
 
 
